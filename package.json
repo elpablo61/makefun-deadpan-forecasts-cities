@@ -1,0 +1,1 @@
+{"description":"Deadpan weather forecast for a city that does not exist (make.fun entry)","license":"MIT","main":"main.ts","name":"makefun-deadpan-forecasts-cities","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
